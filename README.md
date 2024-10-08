@@ -40,10 +40,11 @@ Feel free to reach out if you want to collaborate on exciting Web3 projects or b
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-man07&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-man07&show_icons=true&count_private=true&theme=dark)
 
 ## Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=e-man07&theme=github)
+![GitHub Activity Graph]![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=e-man07&theme=dark)
+
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-man07&theme=dark)
