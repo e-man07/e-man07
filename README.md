@@ -39,3 +39,14 @@ Feel free to reach out if you want to collaborate on exciting Web3 projects or b
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/WhyParabola)
 
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-man07&show_icons=true&count_private=true)
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=e-man07&theme=github)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-man07&theme=dark)
+
+
+
