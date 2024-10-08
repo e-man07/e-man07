@@ -1,6 +1,6 @@
 # About Me
 
-GM folks! 👋 I'm a **Full Stack Developer** and **Web3 Enthusiast** passionate about building decentralized applications and solving real-world problems through code. 
+GM folks! 👋 I'm Aman Jha, a **Full Stack Developer** and **Web3 Enthusiast** passionate about building decentralized applications and solving real-world problems through code. 
 
 ## My Tech Stack
 
