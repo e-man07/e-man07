@@ -8,7 +8,7 @@ Currently building [**MetaMemory**](https://metamemory.tech), a persistent memor
 
 - Founded [**thehodl.fun**](https://thehodl.fun), a cross-chain token launchpad on Push Chain, scaled to ~800K transactions and 500K+ token launches on testnet. Runner-Up at the Project G.U.D hackathon.
 - Built [**Sealevel**](https://www.sealevel.tech/), a coding LLM fine-tuned specifically for Solana/Anchor development, scoring 85% on a custom benchmark, now with 1,500+ CLI installs.
-- 4x hackathon winner, 2x grant recipient (Solana Foundation and CoinDCX India Grant, Dialect Blinks Instagrant)
+- 4x hackathon winner, 3x grant recipient (Solana Foundation and CoinDCX India Grant, Dialect Blinks Instagrant)
 - Superteam India member
 
 ## Featured Projects
