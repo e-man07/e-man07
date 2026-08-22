@@ -1,49 +1,49 @@
 # About Me
 
-GM folks! 👋 I'm Aman Jha, a **AI Engineer** and **Blockchain Developer** passionate about building decentralized applications and solving real-world problems through code. 
+I'm Aman Jha. I like building products. Most of the things I've worked on started with me getting obsessed with an idea and then figuring out how to actually make it work.
 
-## My Tech Stack
+I've built across AI and crypto, from token launchpads and perps infrastructure to a coding LLM and now memory infrastructure for AI agents. I usually end up working across the whole stack because I like understanding how the entire thing fits together, not just one piece of it.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Currently building [**MetaMemory**](https://metamemory.tech), a persistent memory infrastructure layer for AI agents.
 
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-101010?style=for-the-badge&logo=anchor&logoColor=white)
+- Founded [**thehodl.fun**](https://thehodl.fun), a cross-chain token launchpad on Push Chain, scaled to ~800K transactions and 500K+ token launches on testnet. Runner-Up at the Project G.U.D hackathon.
+- Built [**Sealevel**](https://www.sealevel.tech/), a coding LLM fine-tuned specifically for Solana/Anchor development, scoring 85% on a custom benchmark, now with 1,500+ CLI installs.
+- 4x hackathon winner, 2x grant recipient (Solana Foundation and CoinDCX India Grant, Dialect Blinks Instagrant)
+- Superteam India member
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## Featured Projects
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Project | What it does |
+|---|---|
+| [**thehodl.fun**](https://github.com/e-man07/Hodl.fun) | Cross-chain token launchpad on Push Chain, modular upgradeable bonding-curve engine, Uniswap V3 graduation, ~800K testnet transactions |
+| [**Sealevel**](https://github.com/e-man07/sealevel) | Solana/Anchor-specialized coding LLM (QLoRA fine-tuned Qwen2.5-Coder-7B), 85% on custom benchmark, served via web/CLI/VS Code/MCP |
+| [**perpX**](https://github.com/e-man07/perpX) | Decentralized secondary market for Kalshi prediction markets on Solana, up to 40x leverage, isolated-margin liquidation engine |
+| [**Private Perps DEX**](https://github.com/e-man07/perp-dex) | Privacy-focused perps DEX, encrypted positions via Arcium MPC, private deposits via Zcash, priced by Pyth |
+| **MetaMemory** | Persistent memory infrastructure for AI agents, 88.4% on LongMemEval-S |
 
+## Tech Stack
 
-## Interests
-- **Blockchain Development**: Smart contracts, decentralized finance (DeFi), NFTs
-- **Cross-chain Solutions**: Building platforms that bridge multiple blockchain networks
+**Languages:** JavaScript, TypeScript, Python, Rust, Solidity
 
-Feel free to reach out if you want to collaborate on exciting Web3 projects or brainstorm new ideas. Let's build the future of the decentralized web together!
+**Blockchain:** Solana, Anchor, Foundry, Ethereum, Uniswap V3, Arcium, Zcash
 
-## Connect with me
+**AI/ML:** PyTorch, QLoRA fine-tuning, RAG pipelines, Qdrant, OpenAI/Gemini APIs
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/e-man07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/e-man07/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/WhyParabola)
+**Frameworks:** React, Next.js, Node.js, FastAPI
 
+**Databases & Infra:** PostgreSQL, Redis, Neo4j, Docker, AWS, Akash
+
+## Connect
+
+- Portfolio: [whyparabola.online](https://whyparabola.online)
+- GitHub: [github.com/e-man07](https://github.com/e-man07)
+- LinkedIn: [linkedin.com/in/e-man07](https://www.linkedin.com/in/e-man07/)
+- Twitter: [@WhyParabola](https://x.com/WhyParabola)
 
 ## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-man07&show_icons=true&count_private=true&theme=dark)
 
 ## GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-man07&theme=dark)
-
-
-
