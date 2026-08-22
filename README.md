@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I'm Aman Jha. I like building products. Most of the things I've worked on started with me getting obsessed with an idea and then figuring out how to actually make it work.
+Sup' fellas? I'm Aman Jha. I like building products. Most of the things I've worked on started with me getting obsessed with an idea and then figuring out how to actually make it work.
 
 I've built across AI and crypto, from token launchpads and perps infrastructure to a coding LLM and now memory infrastructure for AI agents. I usually end up working across the whole stack because I like understanding how the entire thing fits together, not just one piece of it.
 
