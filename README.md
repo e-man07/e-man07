@@ -40,10 +40,6 @@ Currently building [**MetaMemory**](https://metamemory.tech), a persistent memor
 - LinkedIn: [linkedin.com/in/e-man07](https://www.linkedin.com/in/e-man07/)
 - Twitter: [@WhyParabola](https://x.com/WhyParabola)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e-man07&show_icons=true&count_private=true&theme=dark)
-
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-man07&theme=dark)
