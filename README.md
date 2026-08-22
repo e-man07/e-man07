@@ -6,7 +6,7 @@ I've built across AI and crypto, from token launchpads and perps infrastructure 
 
 Currently building [**MetaMemory**](https://metamemory.tech), a persistent memory infrastructure layer for AI agents.
 
-- Founded [**thehodl.fun**](https://thehodl.fun), a cross-chain token launchpad on Push Chain, scaled to ~800K transactions and 500K+ token launches on testnet. Runner-Up at the Project G.U.D hackathon.
+- Founded [**thehodl.fun**](https://github.com/e-man07/Hodl.fun), a cross-chain token launchpad on Push Chain, scaled to ~800K transactions and 500K+ token launches on testnet. Runner-Up at the Project G.U.D hackathon.
 - Built [**Sealevel**](https://www.sealevel.tech/), a coding LLM fine-tuned specifically for Solana/Anchor development, scoring 85% on a custom benchmark, now with 1,500+ CLI installs.
 - 4x hackathon winner, 3x grant recipient (Solana Foundation and CoinDCX India Grant, Dialect Blinks Instagrant)
 - Superteam India member
